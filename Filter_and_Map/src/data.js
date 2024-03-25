@@ -1,0 +1,26 @@
+export const data = [
+    {
+        id:1,
+        name:"Mumbai"
+    },
+    {
+        id:2,
+        name:"Pune"
+    },
+    {
+        id:3,
+        name:"Delhi"
+    },
+    {
+        id:4,
+        name:"Nagpur"
+    },
+    {
+        id:5,
+        name:"Kolkata"
+    },
+    {
+        id:6,
+        name:"Goa"
+    },
+]
